@@ -1,0 +1,32 @@
+switchName:	fab01-sw-a
+switchType:	109.1
+switchState:	Online
+switchMode:	Native
+switchRole:	Principal
+switchDomain:	1
+switchId:	fffc01
+switchWwn:	10:00:00:05:1e:0a:00:01
+zoning:		ON (PROD_CFG)
+switchBeacon:	OFF
+FC Router:	OFF
+HIF Mode:	OFF
+Address Mode:	0
+
+Index Port Address Media Speed State     Proto
+==============================================
+  0   0   010000   id    N16   Online      FC  F-Port  21:00:00:24:ff:0a:00:01
+  1   1   010100   id    N16   Online      FC  F-Port  21:00:00:24:ff:0a:00:02
+  2   2   010200   id    N16   Online      FC  E-Port  10:00:00:05:1e:0a:00:09 "fab01-isl-a"
+  3   3   010300   id    N16   Online      FC  F-Port  21:00:00:24:ff:0a:00:03
+  4   4   010400   id    N16   No_Light    FC
+  5   5   010500   id    N16   Online      FC  F-Port  21:00:00:24:ff:0a:00:04
+  6   6   010600   id    N16   No_Light    FC
+  7   7   010700   id    N16   Online      FC  F-Port  21:00:00:24:ff:0a:00:05
+  8   8   010800   id    N16   Online      FC  F-Port  21:00:00:24:ff:0a:00:06
+  9   9   010900   id    N16   No_Light    FC
+ 10  10   010a00   id    N16   Online      FC  F-Port  21:00:00:24:ff:0a:00:07
+ 11  11   010b00   id    N16   Online      FC  F-Port  21:00:00:24:ff:0a:00:08
+ 12  12   010c00   id    N16   No_Light    FC
+ 13  13   010d00   id    N16   Online      FC  F-Port  21:00:00:24:ff:0a:00:09
+ 14  14   010e00   id    N16   No_Light    FC
+ 15  15   010f00   id    N16   No_Light    FC

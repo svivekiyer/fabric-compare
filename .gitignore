@@ -1,0 +1,5 @@
+# Generated reports — rebuilt by ./fabric-compare.sh on every run
+*.html
+
+# Screenshots in docs/ are committed deliberately; they are referenced by the README
+!docs/*.html

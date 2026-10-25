@@ -1,0 +1,26 @@
+ alias:	esx01_hba1
+		21:00:00:24:ff:0b:00:01
+
+ alias:	esx02_hba1
+		21:00:00:24:ff:0b:00:02
+
+ alias:	sql01_hba1
+		21:00:00:24:ff:0b:00:03
+
+ alias:	ora01_hba1
+		21:00:00:24:ff:0b:00:04
+
+ alias:	esx03_hba1
+		21:00:00:24:ff:0b:00:06
+
+ alias:	array01_ct0_p1
+		21:00:00:24:ff:0b:00:07
+
+ alias:	array01_ct1_p1
+		21:00:00:24:ff:0b:00:08
+
+ alias:	esx04_hba1
+		21:00:00:24:ff:0b:00:09
+
+ alias:	esx05_hba1
+		21:00:00:24:ff:0b:00:0a

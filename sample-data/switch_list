@@ -1,0 +1,4 @@
+# side  switch_name   address      fabric
+# Addresses are from 192.0.2.0/24 (TEST-NET-1, reserved for documentation).
+A       fab01-sw-a    192.0.2.11   fab01
+B       fab01-sw-b    192.0.2.12   fab01
